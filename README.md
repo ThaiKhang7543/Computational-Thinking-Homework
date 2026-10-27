@@ -1,2 +1,4 @@
 # Computational-Thinking-Homework
-This is the place where I submit homework for Computational Thinking course.
+This repository contains my homework for the Computational Thinking Course
+
+Assignment are separated into folders for each week
